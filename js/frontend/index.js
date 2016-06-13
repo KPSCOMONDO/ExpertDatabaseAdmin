@@ -1,6 +1,6 @@
 
 $(function () {
-    $(".detail-card").click(function () {        
+    $(".detail-card").click(function () {          
         $("#myModal").modal();
     });
 
